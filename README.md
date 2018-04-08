@@ -1,2 +1,3 @@
 # Adventures
-Catch All during training
+Storage for Training purposes
+Intro to programming 2018
